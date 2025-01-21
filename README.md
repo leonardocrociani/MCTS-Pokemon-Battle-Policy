@@ -22,7 +22,7 @@ Tune your parameter inside the `single-battle.py` file.
 - `mcts.py`: Contains the MCTS battle policy.
 - `run-tests.sh`: Script to run the tests.
 - `kill-engine.sh`: Script to run kill the engine (the fastest way).
-- `get_stats.py`: Script to retrieve the stats from the battles (run it after all the battles of the tests terminated).
+- `get-stats.py`: Script to retrieve the stats from the battles (run it after all the battles of the tests terminated).
 - `competitor-wrapper.py`: A utility class.
 
 Make sure to activate the virtul environment `venv` if you want to run the code in a different way or to run the tests.
