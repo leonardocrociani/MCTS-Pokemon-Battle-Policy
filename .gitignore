@@ -1,0 +1,7 @@
+**/**/*__pycache__
+**/**/*.pyc
+**/**/*.pyo
+pokemon-vgc-engine
+venv
+outputs
+results
